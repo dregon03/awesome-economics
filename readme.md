@@ -57,6 +57,7 @@ Datasets
 * [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic, demographic, and health indicators for 218 countries. Aggregates IMF WEO, World Bank WDI, WHO, and UN data. Free API, interactive charts, and country comparisons.
 
 Search
 
