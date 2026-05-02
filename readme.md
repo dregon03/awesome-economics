@@ -58,6 +58,7 @@ Datasets
 * [Monetary Economics: Data Sources](https://sites.google.com/site/davesmant/various/data-sets-sources) - Overview of macro data sources.
 * [OFFSTATS](http://www.offstats.auckland.ac.nz/) - Links to official data sources by country and subject.
 * [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic, demographic, and health indicators for 218 countries. Aggregates IMF WEO, World Bank WDI, WHO, and UN data. Free API, interactive charts, and country comparisons.
+* [FedSalary](https://fedsalary.com/) - Verified federal/national government employee pay tables for 17 countries (~19,000 cells). Each cell is anchored to its authoritative compensation publisher (OPM, TBS, APSC, BBesG, Jinjiin, etc.) with a SHA256 source manifest. Free CSV/JSON exports under CC-BY 4.0. Useful for labor-market and public-sector compensation research.
 
 Search
 
